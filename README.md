@@ -10,6 +10,9 @@ Here are some facts about me:
 <span>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=arturyumaev&count_private=true&show_icons=true"/>
 </span>
+
 <span>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturyumaev" />
 </span>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arturyumaev)](https://github.com/anuraghazra/github-readme-stats)
