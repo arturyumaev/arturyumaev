@@ -3,7 +3,7 @@
 
 Here are some facts about me:
 
-- 🔭 I’m currently working at QIWI as a Software Engineer in the Engineering Team (Frontend)
+- 🔭 I’m currently working at QIWI as a Software Engineer in the Engineering Team (Frontend, Backend)
 - 📫 How to reach me: art.yumaev@gmail.com
 
 
